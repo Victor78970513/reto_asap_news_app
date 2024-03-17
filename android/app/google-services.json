@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130152142177",
+    "project_id": "reto-asap",
+    "storage_bucket": "reto-asap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130152142177:android:b7b9daa2002fe05717e120",
+        "android_client_info": {
+          "package_name": "com.example.reto_asap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtp1VJGzGPZEnUASZ7OUiYY1PcCscTf5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
